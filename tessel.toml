@@ -1,0 +1,2 @@
+[[test]]
+argv = ["cargo", "test", "--locked", "--offline"]
