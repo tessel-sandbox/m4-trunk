@@ -1,2 +1,4 @@
+instance = "standard-1"
+
 [[test]]
 argv = ["cargo", "test", "--locked", "--offline"]
